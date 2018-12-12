@@ -1,0 +1,2 @@
+This file contains two GANs networks, the dense network presented by https://towardsdatascience.com/generative-adversarial-networks-gans-a-beginners-guide-5b38eceece24
+The second model uses the same base model but replaces the Dense Generative network with a Convolutional Layer Generative Network.
